@@ -1,0 +1,4 @@
+Host madedesign.kr
+  HostName 211.47.74.47
+  User madedesign
+  IdentityFile ~/.ssh/openssh
