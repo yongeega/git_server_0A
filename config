@@ -1,4 +1,4 @@
 Host madedesign.kr
-  HostName 211.47.74.47
+  HostName 192.168.219.102
   User madedesign
   IdentityFile ~/.ssh/mdkey
